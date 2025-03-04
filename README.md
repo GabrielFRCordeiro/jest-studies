@@ -1,4 +1,4 @@
-# Boilerplate Studies
+# Jest Studies
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-2B579A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 ![Jest](https://img.shields.io/badge/-Jest-99425B?style=for-the-badge&logo=jest&logoColor=BF552F)
